@@ -1,1 +1,0 @@
-CreateObject("Wscript.Shell").Run "calc.bat",0,False
